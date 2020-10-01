@@ -1,0 +1,14 @@
+*.pyc
+*~
+*.bak*
+*.orig
+*.css.map
+__pychache__
+.python-version
+.pytest_cache
+.sass-cache
+.vscode
+.DS_Store
+.cache
+.env
+.env.local
